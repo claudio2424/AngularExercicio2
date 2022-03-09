@@ -1,0 +1,17 @@
+div{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-size: 80px;
+    width: 70vw;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+button{
+    font-size: 3em;
+}
